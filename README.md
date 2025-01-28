@@ -1,6 +1,7 @@
 # Christisonlagay-et-al_2025
 
-Kate L. Christison-Lagay, Aya Khalaf, Noah C. Freedman, Christopher Micek, Sharif I. Kronemer, Mariana M. Gusso, Lauren Kim, Sarit Forman, Julia Ding, Mark Aksen, Ahmad Abdel-Aty, Hunki Kwon, Noah Markowitz, Erin Yeagle, Elizabeth Espinal, Jose Herrero, 
-Stephan Bickel, James Young, Ashesh Mehta, Kun Wu, Jason Gerrard, Eyiyemisi Damisah, Dennis Spencer and Hal Blumenfeld.  2025.  The neural activity of auditory conscious perception.  Neuroimage, In Press.
+This repository includes the analysis codes implemented for the figures in Kate L. Christison-Lagay, Aya Khalaf, Noah C. Freedman, Christopher Micek, Sharif I. Kronemer, Mariana M. Gusso, Lauren Kim, Sarit Forman, Julia Ding, Mark Aksen, Ahmad Abdel-Aty, Hunki Kwon, Noah Markowitz, Erin Yeagle, Elizabeth Espinal, Jose Herrero, Stephan Bickel, James Young, Ashesh Mehta, Kun Wu, Jason Gerrard, Eyiyemisi Damisah, Dennis Spencer and Hal Blumenfeld.  2025.  The neural activity of auditory conscious perception.  Neuroimage, In Press.
 
- The codes are in the process of being uploaded and will be available shortly.
+A detailed description of all methods and analyses are given in the Methods section of the main manuscript and Supplementary Information. If you have further questions regarding this paper and analyses, we encourage you to contact the corresponding author: Dr. Hal Blumenfeld (hal.blumenfeld@yale.edu)
+
+The codes are in the process of being uploaded and will be available shortly.
